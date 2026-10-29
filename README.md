@@ -45,11 +45,6 @@ python [train_script.py] --data Dataset470K_with_smiles.csv
 
 
 
-## Results
-[One or two key numbers, e.g., test MAE / R², and a figure:]
-`![Parity plot](results/parity.png)`
-
-
 
 ## Contact
 Debashree Ghosh Lab, IACS Kolkata# ML_SF_DRC
