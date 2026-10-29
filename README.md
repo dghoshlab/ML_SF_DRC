@@ -22,15 +22,6 @@ Error_plots.py, molecules_analysis.py #[Error analysis]
 
 ## Dataset
 `Dataset470K_with_smiles.csv` contains ~470,000 molecules.
-
-| Column | Description |
-|---|---|
-| `smiles` | [SMILES string] |
-| [column] | [meaning, units] |
-
-- Source / how it was generated: [method, level of theory, database]
-- Units: [eV / kcal/mol]
-
 ## Installation
 ```bash
 git clone https://github.com/dghoshlab/ML_SF_DRC.git
