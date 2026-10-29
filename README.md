@@ -41,8 +41,9 @@ Python version: [3.x]. Main libraries: rdkit, scikit-learn, pandas, numpy
 ## Usage
 ```bash
 # Train
-python [train_script.py] --data Dataset470K_with_smiles.csv
 
+python [train_script.py] --data Dataset470K_with_smiles.csv
+```
 
 
 
