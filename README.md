@@ -13,7 +13,7 @@ Research group: Debashree Ghosh Lab, Indian Association for the Cultivation of S
 ```
 ML_SF_DRC/
 ├── Dataset470K_with_smiles.csv   # full dataset (Git LFS, ~260 MB)
-├── permutation_importance.py, split_dataset.py, scaffold_split_new.py   # [Permutation imporatnceplot;Random splitting and scaffold splitting of data]
+├── permutation_importance.py, split_dataset.py, scaffold_split_new.py   # [Permutation importance plot;Random splitting and scaffold splitting of data]
 ├── ann_modified_val_similarsplit.py, ann_se_val_similarsplit.py, gnn_s_val_ss.py, gnn_se_val_ss.py                    # [ANN_S, ANN_SE, GNN_S, GNN_SE models]
 ├── ann_struc_pred1.2_same_split_seed42.csv, ann_se_pred1.2_same_split42.csv, gnn_s_seed42n_test_predictions.csv, gnn_se_seed42n_test_predictions.csv, test_predictions.csv                        # [.csv files containing model predictions on test data]
 Error_plots.py, molecules_analysis.py #[Error analysis] 
