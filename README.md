@@ -42,7 +42,7 @@ Python version: [3.x]. Main libraries: rdkit, scikit-learn, pandas, numpy
 
 Adjust threshold and seed in split_dataset.py/scaffold_dataset.py
 For threshold = 0.13 change 1.2 to 1.5 in pos_weight=torch.tensor([1.2])
-# Train
+## Train
 Then train the codes
 ```bash
 python ann_modified_val_similarsplit.py 
